@@ -1,0 +1,9 @@
+{
+    "name": "pkgcloud-with-logging",
+    "version": "0.0.1",
+    "dependencies": {
+        "pkgcloud": ">=0.8.x",
+        "underscore": "1.4.x",
+        "winston": "0.6.x"
+    }
+}
